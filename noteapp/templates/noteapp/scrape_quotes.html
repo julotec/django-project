@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Scrape Quotes</title>
+  </head>
+  <body>
+    <h1>Scrape Quotes</h1>
+    {% if success %}
+    <p>Quotes scraped successfully!</p>
+    {% else %}
+    <p>There was an error while scraping quotes. Please try again later.</p>
+    {% endif %}
+    <a href="{% url 'noteapp:main' %}">Back to main page</a>
+  </body>
+</html>
