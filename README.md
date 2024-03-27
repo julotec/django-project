@@ -25,14 +25,19 @@ Additionally, users can scrape data directly from the website to populate the da
 ### Install
 -----------
 - Clone the repository to your local machine
-- Install the required dependencies using
+- Install the required dependencies using:
   
   ```
   pip install -r requirements.txt
   ```
 - Set up your MongoDB database and ensure it's running locally or hosted remotely
-- Run the application using python -m 
-- Access the application in your web browser at
+- Run the application using command:
+  
+  ```
+  python -m notes.py
+  ```
+  
+- Access the application in your web browser at:
   
   ```
   http://localhost:3000
