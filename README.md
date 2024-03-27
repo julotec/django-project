@@ -34,7 +34,7 @@ Users can register and log in to access the system
 - Run the application using python -m 
 - Access the application in your web browser at
   
- ```
+  ```
   http://localhost:3000
- ```
+  ```
 
