@@ -54,5 +54,6 @@ Additionally, users can scrape data directly from the website to populate the da
   --------------
 
   Contributions are welcome!
+  
   If you have ideas for new features or improvements, feel free to open an issue or submit a pull request 😊
 
