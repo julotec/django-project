@@ -22,26 +22,10 @@ Additionally, users can scrape data directly from the website to populate the da
 - #### Public Quote Browse:
   All quotes are available for browsing without authentication
 
-### Install
+### Prerequisites
 -----------
-- Clone the repository to your local machine
-- Install the required dependencies using:
-  
-  ```
-  pip install -r requirements.txt
-  ```
-- Set up your MongoDB database and ensure it's running locally or hosted remotely
-- Run the application using command:
-  
-  ```
-  python -m notes.py
-  ```
-  
-- Access the application in your web browser at:
-  
-  ```
-  http://localhost:3000
-  ```
+- Python (3.6 or higher)
+- Django (latest version)
   ### Usage
   ---------
 - Register an account or log in if you already have one
