@@ -26,10 +26,15 @@ Users can register and log in to access the system
 -----------
 - Clone the repository to your local machine
 - Install the required dependencies using
+  
   ```
   pip install -r requirements.txt
   ```
 - Set up your MongoDB database and ensure it's running locally or hosted remotely
 - Run the application using python -m 
-- Access the application in your web browser at http://localhost:3000.
+- Access the application in your web browser at
+  
+```
+  http://localhost:3000
+```
 
