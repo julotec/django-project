@@ -7,6 +7,7 @@ This project allows users to register, log in, and perform various actions such 
 Additionally, users can scrape data directly from the website to populate the database.
 
 ### Features
+------------
 
 - #### <span style="color:navy">User Authentication</span>:
 Users can register and log in to access the system
