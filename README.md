@@ -26,18 +26,19 @@ Additionally, users can scrape data directly from the website to populate the da
 -----------
 - Python (3.6 or higher)
 - Django (latest version)
-  ### Usage
-  ---------
+  
+### Usage
+---------
 - Register an account or log in if you already have one
 - Navigate to the "Authors" section to add new authors to the system
 - Visit the "Quotes" section to add new quotes, attributing them to specific authors
 - Use the scraping feature to populate the database with data from the website
 - Explore public author pages and browse through available quotes
 
-  ### Contribute
-  --------------
+### Contribute
+--------------
 
-  Contributions are welcome!
+Contributions are welcome!
   
-  If you have ideas for new features or improvements, feel free to open an issue or submit a pull request 😊
+If you have ideas for new features or improvements, feel free to open an issue or submit a pull request 😊
 
