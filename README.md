@@ -8,7 +8,7 @@ Additionally, users can scrape data directly from the website to populate the da
 
 ### Features
 
-- #### <span style="color:navy">User Authentication:</span>:
+- #### <span style="color:navy">User Authentication</span>:
 Users can register and log in to access the system
 - #### Author Management:
   Registered users can add new authors to the system
